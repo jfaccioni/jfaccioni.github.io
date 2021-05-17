@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Access my scientific curriculum here (in Portuguese): [Curriculum Lattes](https://lattes.cnpq.br/4012909376659672)
+Access my scientific curriculum here (in Portuguese): [Curriculum Lattes](http://lattes.cnpq.br/4012909376659672)
 
 Education
 ======
