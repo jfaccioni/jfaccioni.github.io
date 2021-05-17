@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Corrales Ureña, YR et al. Influences of the pH on the adsorption properties of an antimicrobial peptide on titanium surfaces. Applied Adhesion Science, v. 3, p. 7, 2015'
 ---
 
-doi: [https://doi.org/10.1186/s40563-015-0032-6]()
+doi: [https://doi.org/10.1186/s40563-015-0032-6](https://doi.org/10.1186/s40563-015-0032-6)

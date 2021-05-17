@@ -10,4 +10,4 @@ DynaFit is a GUI program written in Python that measures **cell fitness dynamics
 
 Check out the publication here: [Cancer cell fitness is dynamic](/publication/cancer-cell-fitness-is-dynamic)
 
-More information about DynaFit (LabSinal / UFRGS): [www.ufrgs.br/labsinal/dynafit/index.html](www.ufrgs.br/labsinal/dynafit/index.html)
+More information about DynaFit here: [LabSinal / UFRGS](https://www.ufrgs.br/labsinal/dynafit)

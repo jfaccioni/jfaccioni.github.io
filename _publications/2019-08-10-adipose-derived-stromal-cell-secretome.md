@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Onzi, GR; Faccioni, JL et al. Adipose-derived stromal cell secretome disrupts autophagy in glioblastoma. Journal of Molecular Medicine, v. 97, p. 2, 2019'
 ---
 
-doi: [https://doi.org/10.1007/s00109-019-01829-2]()
+doi: [https://doi.org/10.1007/s00109-019-01829-2](https://doi.org/10.1007/s00109-019-01829-2)

@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Rossi de Aguiar, KMF et al. Urethanes PDMS-based: Functional hybrid coatings for metallic dental implants. Applied Surface Science, v. 484, p. 1128-1140, 2019'
 ---
 
-doi: [https://doi.org/10.1016/j.apsusc.2019.04.058]()
+doi: [https://doi.org/10.1016/j.apsusc.2019.04.058](https://doi.org/10.1016/j.apsusc.2019.04.058)

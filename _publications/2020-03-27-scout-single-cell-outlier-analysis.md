@@ -9,4 +9,4 @@ paperurl: ''
 citation: 'Faccioni, JL and Onzi, GR et al. SCOUT: Single-cell outlier analysis in cancer. Biorxiv, 2020'
 ---
 
-doi: [https://doi.org/10.1101/2020.03.25.007518]()
+doi: [https://doi.org/10.1101/2020.03.25.007518](https://doi.org/10.1101/2020.03.25.007518)
