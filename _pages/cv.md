@@ -70,3 +70,9 @@ Skills
   * German: Fluent
   * French: basic knowledge (able to read and understand)
   * Italian: basic knowledge (able to read and understand)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

@@ -1,10 +1,4 @@
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-#TODO: Add the sections below!
+# ### TODO: Add the sections below!
 
 Talks
 ======
