@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Access my scientific curriculum here (in Portuguese): [Curriculum Lattes](https://lattes.cnpq.br/4012909376659672)
+
 Education
 ======
 * PhD candidate (Cellular and Molecular Biology), Universidade Federal do Rio Grande do Sul (UFRGS), 2019 - current

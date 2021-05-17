@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello!"
-excerpt: "About me"
+excerpt: "Juliano Faccioni"
 author_profile: true
 redirect_from: 
   - /about/
